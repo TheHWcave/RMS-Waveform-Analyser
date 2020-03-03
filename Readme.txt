@@ -5,6 +5,8 @@ The Excel and ODS versions have the same models.
 
 I presented this model and walked through some of the wave forms in a YouTube video on True RMS
 You find it and additional material on my channel “TheHWcave” 
+at this link:  https://youtu.be/eN1VN3f2378
+
 
 
 In all models:
